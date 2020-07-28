@@ -1,0 +1,169 @@
+{
+  "currencies": [
+    {
+     "label": "Canada",
+     "value": "CAD",
+     "flag": "https://www.countryflags.io/ca/flat/64.png"
+    },
+    {
+     "label": "Hong Kong",
+     "value": "HKD",
+     "flag": "https://www.countryflags.io/hk/flat/64.png"
+    },
+    {
+     "label": "Iceland",
+     "value": "ISK",
+     "flag": "https://www.countryflags.io/is/flat/64.png"
+    },
+    {
+     "label": "Philippines",
+     "value": "PHP",
+     "flag": "https://www.countryflags.io/ph/flat/64.png"
+    },
+    {
+     "label": "Denmark",
+     "value": "DKK",
+     "flag": "https://www.countryflags.io/dk/flat/64.png"
+    },
+    {
+     "label": "Hungary",
+     "value": "HUF",
+     "flag": "https://www.countryflags.io/hu/flat/64.png"
+    },
+    {
+     "label": "Czech Republic",
+     "value": "CZK",
+     "flag": "https://www.countryflags.io/cz/flat/64.png"
+    },
+    {
+     "label": "Australia",
+     "value": "AUD",
+     "flag": "https://www.countryflags.io/au/flat/64.png"
+    },
+    {
+     "label": "RON",
+     "value": "Romania",
+     "flag": "https://www.countryflags.io/ro/flat/64.png"
+    },
+    {
+     "label": "Sweden",
+     "value": "SEK",
+     "flag": "https://www.countryflags.io/se/flat/64.png"
+    },
+    {
+     "label": "Indonesia",
+     "value": "IDR",
+     "flag": "https://www.countryflags.io/id/flat/64.png"
+    },
+    {
+     "label": "India",
+     "value": "INR",
+     "flag": "https://www.countryflags.io/in/flat/64.png"
+    },
+    {
+     "label": "Brazil",
+     "value": "BRL",
+     "flag": "https://www.countryflags.io/br/flat/64.png"
+    },
+    {
+     "label": "Russian Federation",
+     "value": "RUB",
+     "flag": "https://www.countryflags.io/ru/flat/64.png"
+    },
+    {
+     "label": "Croatia",
+     "value": "HRK",
+     "flag": "https://www.countryflags.io/hr/flat/64.png"
+    },
+    {
+     "label": "Japan",
+     "value": "JPY",
+     "flag": "https://www.countryflags.io/jp/flat/64.png"
+    },
+    {
+     "label": "Thailand",
+     "value": "THB",
+     "flag": "https://www.countryflags.io/th/flat/64.png"
+    },
+    {
+     "label": "Switzerland",
+     "value": "CHF",
+     "flag": "https://www.countryflags.io/ch/flat/64.png"
+    },
+    {
+     "label": "Singapore",
+     "value": "SGD",
+     "flag": "https://www.countryflags.io/sg/flat/64.png"
+    },
+    {
+     "label": "Poland",
+     "value": "PLN",
+     "flag": "https://www.countryflags.io/pl/flat/64.png"
+    },
+    {
+     "label": "Bulgaria",
+     "value": "BGN",
+     "flag": "https://www.countryflags.io/bg/flat/64.png"
+    },
+    {
+     "label": "Turkey",
+     "value": "TRY",
+     "flag": "https://www.countryflags.io/tr/flat/64.png"
+    },
+    {
+     "label": "China",
+     "value": "CNY",
+     "flag": "https://www.countryflags.io/cn/flat/64.png"
+    },
+    {
+     "label": "Norway",
+     "value": "NOK",
+     "flag": "https://www.countryflags.io/no/flat/64.png"
+    },
+    {
+     "label": "New Zealand",
+     "value": "NZD",
+     "flag": "https://www.countryflags.io/nz/flat/64.png"
+    },
+    {
+     "label": "South Africa",
+     "value": "ZAR",
+     "flag": "https://www.countryflags.io/za/flat/64.png"
+    },
+    {
+     "label": "United States",
+     "value": "USD",
+     "flag": "https://www.countryflags.io/us/flat/64.png"
+    },
+    {
+     "label": "Mexico",
+     "value": "MXN",
+     "flag": "https://www.countryflags.io/mx/flat/64.png"
+    },
+    {
+     "label": "Israel",
+     "value": "ILS",
+     "flag": "https://www.countryflags.io/il/flat/64.png"
+    },
+    {
+     "label": "United Kingdom",
+     "value": "GBP",
+     "flag": "https://www.countryflags.io/gb/flat/64.png"
+    },
+    {
+     "label": "Korea, Republic of",
+     "value": "KRW",
+     "flag": "https://www.countryflags.io/kr/flat/64.png"
+    },
+    {
+     "label": "Malaysia",
+     "value": "MYR",
+     "flag": "https://www.countryflags.io/my/flat/64.png"
+    },
+    {
+     "label": "European Union",
+     "value": "EUR",
+     "flag": "https://www.countryflags.io/eu/flat/64.png"
+    }
+   ]
+}
