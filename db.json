@@ -116,11 +116,6 @@
      "flag": "https://www.countryflags.io/cn/flat/64.png"
     },
     {
-     "label": "Norway",
-     "value": "NOK",
-     "flag": "https://www.countryflags.io/no/flat/64.png"
-    },
-    {
      "label": "New Zealand",
      "value": "NZD",
      "flag": "https://www.countryflags.io/nz/flat/64.png"
@@ -149,16 +144,6 @@
      "label": "United Kingdom",
      "value": "GBP",
      "flag": "https://www.countryflags.io/gb/flat/64.png"
-    },
-    {
-     "label": "Korea, Republic of",
-     "value": "KRW",
-     "flag": "https://www.countryflags.io/kr/flat/64.png"
-    },
-    {
-     "label": "Malaysia",
-     "value": "MYR",
-     "flag": "https://www.countryflags.io/my/flat/64.png"
     },
     {
      "label": "European Union",
